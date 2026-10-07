@@ -147,7 +147,7 @@ def contributions_data():
 
 
 def get_mpesa_oauth_token():
-    # For C2B, we may need token for other APIs, but not for payment initiation
+    
     pass
 
 
